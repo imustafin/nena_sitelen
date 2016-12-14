@@ -24,7 +24,7 @@ public class NenaSitelenInputMethod extends InputMethodService
     @Override
     public View onCreateInputView() {
         mKv = (KeyboardView)getLayoutInflater().inflate(R.layout.keyboard, null);
-        mKeyboard = new Keyboard(this, R.xml.qwerty);
+        mKeyboard = new Keyboard(this, R.xml.kena);
         mKv.setKeyboard(mKeyboard);
         mKv.setOnKeyboardActionListener(this);
         return mKv;
