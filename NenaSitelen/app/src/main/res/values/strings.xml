@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">NenaSitelen</string>
+    <string name="app_name">nena sitelen</string>
     <string name="input_method_service_label">nena sitelen</string>
-    <string name="subtype_en_US">English (US)</string>
+    <string name="subtype_en_US">toki pona</string>
 </resources>

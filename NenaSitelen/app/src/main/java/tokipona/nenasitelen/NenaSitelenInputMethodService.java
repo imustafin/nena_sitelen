@@ -12,7 +12,7 @@ import android.view.inputmethod.InputConnection;
  * Created by ilgiz on 12/14/16.
  */
 
-public class NenaSitelenInputMethod extends InputMethodService
+public class NenaSitelenInputMethodService extends InputMethodService
         implements KeyboardView.OnKeyboardActionListener {
 
 
