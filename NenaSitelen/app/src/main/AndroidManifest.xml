@@ -10,7 +10,7 @@
         android:theme="@style/AppTheme">
 
         <service
-            android:name=".NenaSitelenInputMethod"
+            android:name=".NenaSitelenInputMethodService"
             android:label="@string/input_method_service_label"
             android:permission="android.permission.BIND_INPUT_METHOD">
             <meta-data
